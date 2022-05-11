@@ -1,0 +1,6 @@
+Feature: Order the dress functionality in automation practice
+Scenario: Login functionality
+Given user must Launch The Url
+When user Enter The Username In The Username Field
+And user Enter The Password In The Password Field
+Then user Click The Login Button And It Navigate To The Home Page
